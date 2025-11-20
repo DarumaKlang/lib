@@ -3,11 +3,11 @@ Library สำหรับการคคำนวนเลข 7 ตัว
 
 ## โครงสร้างไฟล์
 
-`src/lib/grid-calculator.ts` : เก็บฟังก์ชันคำนวณ (Logic)
-`src/data/grid-variables.ts` : เก็บข้อมูลชื่อตัวแปร (Data)
-`src/components/TriplexGridFinder.tsx` : หน้าจอแสดงผล (UI Component)
+- `src/lib/grid-calculator.ts` : เก็บฟังก์ชันคำนวณ (Logic)
+- `src/data/grid-variables.ts` : เก็บข้อมูลชื่อตัวแปร (Data)
+- `src/components/TriplexGridFinder.tsx` : หน้าจอแสดงผล (UI Component)
 
-*(หมายเหตุ: ถ้าโปรเจกต์คุณไม่ได้ใช้โฟลเดอร์ src ให้เอา src ออกแล้ววางใน root ได้เลยครับ)*
+*(หมายเหตุ : ถ้าโปรเจกต์คุณไม่ได้ใช้โฟลเดอร์ src ให้เอา src ออกแล้ววางใน root ได้เลยครับ)*
 
 สรุปการนำไปใช้งาน (Usage Guide) ของฟังก์ชันทั้ง 3 ตัวให้เข้าใจง่ายๆ โดยแบ่งตาม **"วัตถุประสงค์"** และ **"สถานการณ์จริงบนหน้าเว็บ"**
 
